@@ -1,7 +1,6 @@
    var monsterdata = {
   "compendium": {
     "monster": [{
-    {
  "source": "Tome of Beasts",
  "name": "Mammon",
  "size": "H",
